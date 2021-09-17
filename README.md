@@ -1,2 +1,2 @@
 # PHP-StringClass
-A class makes working with PHP strings simply powerful
+A class that makes working with PHP strings simply powerful
