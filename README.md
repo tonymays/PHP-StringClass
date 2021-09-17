@@ -9,11 +9,11 @@ Class Method Index
 ```
 
 ### slice_before
-
+Slices haystack before the needle
 
 ### slice_after
-
+Slices haystack after the needle
 
 ### slice_between
-
+Slices haystacks between the start and end needles
 
